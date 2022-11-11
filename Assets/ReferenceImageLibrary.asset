@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5458383012123584122
+  m_GuidHigh: 14532668805361979324
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4696862783792099418
+      m_GuidHigh: 10584167697504373690
+    m_SerializedTextureGuid:
+      m_GuidLow: 8229211427108303254
+      m_GuidHigh: 11285075845893043529
+    m_Size: {x: 0.2, y: 0.3216}
+    m_SpecifySize: 1
+    m_Name: soju
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5229025177030416133
+      m_GuidHigh: 8684795355306934701
+    m_SerializedTextureGuid:
+      m_GuidLow: 15444158455800306103
+      m_GuidHigh: 3932137240961126891
+    m_Size: {x: 0.2, y: 0.42222223}
+    m_SpecifySize: 1
+    m_Name: beer
+    m_Texture: {fileID: 0}
